@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="tealPrimary">#009688</color>
+    <color name="tealPrimaryDark">#00675b</color>
+    <color name="tealPrimaryLight">#52c7b8</color>
+
+    <color name="pinkSecondary">#ff4081</color>
+    <color name="purpleSecondary">#e040fb</color>
+
+    <color name="redPrimary">#f44336</color>
+    <color name="redPrimaryDark">#ba000d</color>
+    <color name="redPrimaryLight">#ff7961</color>
+
+    <color name="greenPrimary">#4caf50</color>
+    <color name="greenPrimaryDark">#087f23</color>
+    <color name="greenPrimaryLight">#80e27e</color>
+
 </resources>

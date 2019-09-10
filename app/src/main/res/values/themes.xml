@@ -1,0 +1,21 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/tealPrimary</item>
+        <item name="colorPrimaryDark">@color/tealPrimaryDark</item>
+        <item name="colorSecondary">@color/pinkSecondary</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="materialButtonStyle">@style/DefaultButton</item>
+    </style>
+
+    <style name="RedTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/redPrimary</item>
+        <item name="colorSecondary">@color/purpleSecondary</item>
+    </style>
+
+    <style name="GreenTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/greenPrimary</item>
+        <item name="colorSecondary">@color/purpleSecondary</item>
+    </style>
+</resources>

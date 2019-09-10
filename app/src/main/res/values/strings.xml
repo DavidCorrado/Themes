@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Themes</string>
+    <string name="button_text">Button Text</string>
+    <string name="hint_text">Hint Text</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="switch_text">Switch</string>
+    <string name="radio_text">Radio Text</string>
 </resources>
